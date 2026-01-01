@@ -1,7 +1,7 @@
 ### Hi👋 Here is Nativus. 
 
 - 🎓 MEng Student @ PKU, BEng (Hons) @ UESTC.
-- 🌱 I’m currently learning Container Technologies, HPC and Machine Learning.
+- 🌱 I’m currently learning SmartNIC, Containers in HPC and Scheduling System.
 - 📫 Contact me at [LinkedIn](https://www.linkedin.com/in/yongkun-leo-li-605538222/) or my blog [Nativus' Space](https://naiv.fun). 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nativu5&theme=shadow_blue&show_icons=true)
+![Stats](./profile/stats.svg)
