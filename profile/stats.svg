@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yongkun Li's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 754, Total Commits  (last year) : 279, Total PRs: 210, Total Issues: 21, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 753, Total Commits  (last year) : 279, Total PRs: 211, Total Issues: 21, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 42.56354134366776;
+        stroke-dashoffset: 42.5229639527907;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >754</text>
+      >753</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >210</text>
+      >211</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
