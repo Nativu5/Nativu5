@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yongkun Li's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 827, Total Commits  (last year) : 314, Total PRs: 267, Total Issues: 69, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 830, Total Commits  (last year) : 315, Total PRs: 271, Total Issues: 71, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 29.643068046795275;
+        stroke-dashoffset: 29.327766985879713;
       }
     }
   
@@ -162,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >827</text>
+      >830</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >314</text>
+      >315</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >267</text>
+      >271</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >69</text>
+      >71</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
